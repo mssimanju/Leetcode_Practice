@@ -1,3 +1,6 @@
+//The place where dream begins. Unfortunately, double 'for' is a bad way to solve this problem. Use hash.
+
+
 class Solution {
 public:
     static vector<int> twoSum(vector<int>& nums, int target) {
